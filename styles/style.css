@@ -268,6 +268,7 @@
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
+  margin-top: 80px;
 }
 
 .table__heading_theme_dark {
@@ -316,19 +317,18 @@
 .footer__column {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
 }
 
 .footer__column-heading {
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
-  margin: 0;
-  padding-bottom: 20px;
+  margin: 0 0 20px 0;
 }
 
 .footer__column-links {
-  padding: 0 0 16px;
+  margin: 0 0 16px;
+  padding: 0;
   display: flex;
   flex-direction: column;
   list-style: none;
