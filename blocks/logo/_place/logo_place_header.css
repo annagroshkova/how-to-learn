@@ -1,0 +1,10 @@
+.logo_place_header {
+  color: black;
+  height: 32px;
+  width: 183px;
+  position: absolute;
+  left: 64px;
+  top: 30px;
+  margin: 0;
+  padding: 0;
+}
