@@ -8,4 +8,10 @@
   text-decoration: none;
   margin: 0;
   padding: 0;
+  transition: opacity 0.1s ease-out;
 }
+
+.footer__column-link:hover {
+  opacity: 0.6;
+}
+
